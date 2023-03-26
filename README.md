@@ -1,4 +1,4 @@
-### Alternative implementation of the Bitwarden server API written in Rust and compatible with [upstream Bitwarden clients](https://bitwarden.com/download/)*, perfect for self-hosted deployment where running the official resource-heavy service might not be ideal.
+### 用Rust编写的Bitwarden服务器API的替代实现，并与上游Bitwarden客户端*兼容，非常适合自托管部署，其中运行官方资源繁重的服务可能并不理想。
 
 📢 Note: This project was known as Bitwarden_RS and has been renamed to separate itself from the official Bitwarden server in the hopes of avoiding confusion and trademark/branding issues. Please see [#1642](https://github.com/dani-garcia/vaultwarden/discussions/1642) for more explanation.
 

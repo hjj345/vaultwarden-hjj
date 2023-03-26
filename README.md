@@ -16,7 +16,7 @@ Image is based on [Rust implementation of Bitwarden API](https://github.com/dani
 
 **This project is not associated with the [Bitwarden](https://bitwarden.com/) project nor Bitwarden, Inc.**
 
-#### ⚠️**IMPORTANT**⚠️: When using this server, please report any bugs or suggestions to us directly (look at the bottom of this page for ways to get in touch), regardless of whatever clients you are using (mobile, desktop, browser...). DO NOT use the official support channels.
+#### ⚠️重要⚠️：使用此服务器时，请直接向我们报告任何错误或建议（查看此页面底部的联系方式），无论您使用什么客户（移动、桌面、浏览器......）。不要使用官方支持渠道。
 
 ---
 

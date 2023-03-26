@@ -20,9 +20,9 @@
 
 ---
 
-## Features
+## 特点
 
-Basically full implementation of Bitwarden API is provided including:
+基本上提供了Bitwarden API的完整实现，包括：
 
  * Organizations support
  * Attachments and Send

@@ -23,15 +23,14 @@
 ## 特点
 
 基本上提供了Bitwarden API的完整实现，包括：
-
- * Organizations support
- * Attachments and Send
- * Vault API support
- * Serving the static files for Vault interface
- * Website icons API
- * Authenticator and U2F support
- * YubiKey and Duo support
- * Emergency Access
+* 组织支持
+* 附件和发送
+* Vault API支持
+* 为Vault界面提供静态文件
+* 网站图标API
+* 身份验证器和U2F支持
+* Yubikey和Duo支持
+* 紧急访问
 
 ## Installation
 Pull the docker image and mount a volume from the host for persistent storage:

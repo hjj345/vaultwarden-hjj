@@ -14,7 +14,7 @@
 
 镜像基于[Rust implementation of Bitwarden API](https://github.com/dani-garcia/vaultwarden)实现。
 
-**This project is not associated with the [Bitwarden](https://bitwarden.com/) project nor Bitwarden, Inc.**
+**该项目与[Bitwarden](https://bitwarden.com/)项目或Bitwarden, Inc.无关。**
 
 #### ⚠️重要⚠️：使用此服务器时，请直接向我们报告任何错误或建议（查看此页面底部的联系方式），无论您使用什么客户（移动、桌面、浏览器......）。不要使用官方支持渠道。
 

@@ -12,7 +12,7 @@
 [![AGPL-3.0 Licensed](https://img.shields.io/github/license/dani-garcia/vaultwarden.svg)](https://github.com/dani-garcia/vaultwarden/blob/main/LICENSE.txt)
 [![Matrix Chat](https://img.shields.io/matrix/vaultwarden:matrix.org.svg?logo=matrix)](https://matrix.to/#/#vaultwarden:matrix.org)
 
-Image is based on [Rust implementation of Bitwarden API](https://github.com/dani-garcia/vaultwarden).
+镜像基于[Rust implementation of Bitwarden API](https://github.com/dani-garcia/vaultwarden)实现。
 
 **This project is not associated with the [Bitwarden](https://bitwarden.com/) project nor Bitwarden, Inc.**
 

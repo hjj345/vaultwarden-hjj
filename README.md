@@ -1,6 +1,6 @@
 ### 用Rust编写的Bitwarden服务器API的替代实现，并与上游Bitwarden客户端*兼容，非常适合自托管部署，其中运行官方资源繁重的服务可能并不理想。
 
-📢 Note: This project was known as Bitwarden_RS and has been renamed to separate itself from the official Bitwarden server in the hopes of avoiding confusion and trademark/branding issues. Please see [#1642](https://github.com/dani-garcia/vaultwarden/discussions/1642) for more explanation.
+📢 注：该项目被称为Bitwarden_RS，并已重新命名为与官方Bitwarden服务器分离，以避免混淆和商标/品牌问题。有关更多解释，请参阅[#1642](https://github.com/dani-garcia/vaultwarden/discussions/1642) for more explanation。
 
 ---
 [![Build](https://github.com/dani-garcia/vaultwarden/actions/workflows/build.yml/badge.svg)](https://github.com/dani-garcia/vaultwarden/actions/workflows/build.yml)
